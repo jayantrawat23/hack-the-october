@@ -4,5 +4,13 @@
 }
 
 .body{
-	background-color: blue
+	background-color: blue;
+}
+
+.hobbies{
+	color: black;
+}
+
+.lockdown{
+	color: red;
 }
